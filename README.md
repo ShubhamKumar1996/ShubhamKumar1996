@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Kumar
 - 👀 I’m interested in working with new technologies and exploring how this can help to solve problems
-- 🌱 I’m currently learning web service, Microservices, API and so on
+- 🌱 I’m currently learning more about Object oriented Design and Analysis.
 - 📫 Reach me through mail "Nimcetshubhamkumar@gmail.com"
 
 <!---
